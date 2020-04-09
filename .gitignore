@@ -1,0 +1,5 @@
+# .gitignore 
+# no .a files
+*.exe
+# ignore all files in the build/ directory
+KOR_DAY_SCENES/
